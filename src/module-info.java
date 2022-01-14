@@ -1,2 +1,0 @@
-module galactic_pandas {
-}
